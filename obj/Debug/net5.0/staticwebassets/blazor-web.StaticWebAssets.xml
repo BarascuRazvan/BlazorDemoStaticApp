@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="c:\Work\BlazorApp2\blazor-web\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="c:\Work\BlazorApp2\blazor-web\obj\Debug\net5.0\scopedcss\bundle\" />
+</StaticWebAssets>
